@@ -74,3 +74,9 @@ Contributions are welcome! Please follow the guidelines below:
 
 # Looking for a pre-compiled Mongoose web server Windows or Mac binary?
 - [Download pre-compiled Mongoose web server binary.](https://www.cesanta.com/binary.html)
+
+# compile with
+```
+C  | cc main.c <mongoose_path>/mongoose.c
+c++| c++ main.c <mongoose_path>/mongoose.c
+```
